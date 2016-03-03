@@ -1,0 +1,45 @@
+h1 {
+    text-align: center;
+    color: white;
+}
+
+body {
+    background-color: #bf7537;
+}
+
+#ninja {
+    height:330px;
+    width:330px;
+    position:relative;
+    bottom:380px;
+    left:530px;
+    z-index: 1;
+}
+
+#peasant {
+   height:300px; 
+   width:300px;
+   bottom:350px;
+   position:relative;
+   left:440px;
+}
+
+#knight {
+    position:relative;
+    bottom:350px; 
+    height:320px; 
+    width:320px;
+    left:200px;
+}
+
+#castle {
+    margin: auto;
+    width: 70%;
+    position:relative;
+    bottom:40px;
+    right:137px;
+}
+
+p1 {
+    color: white;
+}
