@@ -40,6 +40,20 @@ body {
     right:137px;
 }
 
-p1 {
+p {
     color: white;
+    font-family: 'Old Standard TT', serif;
+    font-size: 40px;
+}
+
+a {
+    font-family: 'Old Standard TT', serif;
+    font-size: 40px;
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: red;
 }
